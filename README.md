@@ -3,6 +3,8 @@
 Research-oriented course on time series analysis for healthcare systems, with a strong focus on mathematical foundations, irregular medical data, and clinical decision modeling.
 
 ---
+🚧 This repository is under active development — first materials coming soon.
+---
 
 ## Overview
 
