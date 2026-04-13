@@ -92,7 +92,10 @@ This project aims to:
 
 ## Citation
 
-If you use or reference this work, citation instructions will be provided soon.
+This repository provides a `CITATION.cff` file to facilitate proper academic citation.
+
+If you use this work in your research, please cite it accordingly.
+The citation information will be updated as new materials are released.
 
 ---
 
